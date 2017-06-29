@@ -1,5 +1,5 @@
 # SimplePongGame
-A simple pong game made by me using LÖVE2D Framework
+A simple pong game made by me using LÖVE2D Framework.
 
 
 ----------  HOW TO PLAY  ------------------
