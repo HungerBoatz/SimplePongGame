@@ -1,21 +1,14 @@
 # SimplePongGame
 A simple pong game made by me using LÖVE2D Framework.
 
-
 ----------  HOW TO PLAY  ------------------
-
 For player 1:
-
-Press 'W' to move the paddle up
+Press 'W' to move the paddle up and
 Press 'S' to move the paddle down
 
-
-
 For player 2:
-
-Press "UP ARROW KEY" to move the paddle up
+Press "UP ARROW KEY" to move the paddle up and
 Press "DOWN ARROW KEY" to move the paddle down
-
 
 HAPPY PLAYING!
 
