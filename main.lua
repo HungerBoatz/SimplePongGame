@@ -46,7 +46,7 @@ function love.load()
     -- credit initialization
     credit = {}
     credit.font = love.graphics.getFont()
-    credit.text = "Programmed by: Ari Rahmadhika, sounds from: Bfxr"
+    credit.text = "sounds from: Bfxr"
     credit.x = love.graphics.getWidth() / 2
     credit.y = love.graphics.getHeight() - 30
     credit.scale = 2
